@@ -7,7 +7,7 @@ A simple Web Application using the Rotten Tomatoes and OMDBI API's.  This is a s
  
 ## Index
  
-* Ben Nowak - CSCI_InfoSystems Student at UNC Asheville(#first-link)
+* Ben Nowak - CSCI_InfoSystems Student at UNC Asheville (#first-link)
 * [Second Link](#second-link)
 * [Third Link](#third-link)
  
