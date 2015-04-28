@@ -1,7 +1,8 @@
 {
   "name": "rotten",
   "version": "1.0.0",
-  "description": "",
+  "private": "true",
+  "description": "Student web app utilizing Rotton Tomatoes and oMDBI API's for mashup for movies and movie posters",
   "main": "app.js",
   "dependencies": {
     "angular": "^1.3.15",
