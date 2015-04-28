@@ -1,17 +1,34 @@
 {
-  "name": "nodetest1",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
+  "name": "rotten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "dependencies": {
-    "body-parser": "~1.12.0",
-    "cookie-parser": "~1.3.4",
-    "debug": "~2.1.1",
-    "express": "~4.12.2",
-    "jade": "~1.9.2",
-    "morgan": "~1.5.1",
-    "serve-favicon": "~2.2.0"
-  }
+    "angular": "^1.3.15",
+    "body-parser": "^1.12.3",
+    "bootstrap": "^3.3.4",
+    "cookie-parser": "^1.3.4",
+    "debug": "^2.1.3",
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "mongodb": "^2.0.28",
+    "monk": "^1.0.1",
+    "morgan": "^1.5.2",
+    "serve-favicon": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bnowak1unca/Rotten.git"
+  },
+  "author": "Ben Nowak<bnowak1@unca.edu>",
+  "license": "GPL 3.0",
+  "bugs": {
+    "url": "https://github.com/bnowak1unca/Rotten/issues"
+  },
+  "homepage": "https://github.com/bnowak1unca/Rotten"
 }
