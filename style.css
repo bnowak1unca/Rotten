@@ -1,0 +1,49 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  background-color: crimson;
+}
+.movieBox{
+  float: left;
+  padding: 10px;
+  margin: 20px;
+  background-color: azure;
+  color: darkgoldenrod;
+  width: 140px;
+  height: 150px;
+  text-align: center;
+  border-color: aqua;
+  border-radius: 20px;
+}
+.movieBox img{
+  margin: 20px;
+}
+#content{
+  position: relative;
+  width: 80%;
+  left: 10%;
+}
+
+#control span{
+  top 80px;
+  padding: 20px;
+  border: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: firebrick;
+  color: #ef3;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+header{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-family: fantasy;
+  font-style: normal;
+  font-size: 24pt;
+  background-color: firebrick;
+  height: 80px;
+  width: 99.9%
+}
