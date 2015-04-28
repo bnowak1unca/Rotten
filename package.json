@@ -1,5 +1,5 @@
 {
-  "name": "rotten",
+  "name": "rottenomdbimashup",
   "version": "1.0.0",
   "private": "true",
   "description": "Student web app utilizing Rotton Tomatoes and oMDBI API's for mashup for movies and movie posters",
@@ -27,6 +27,7 @@
     "url": "https://github.com/bnowak1unca/Rotten.git"
   },
   "author": "Ben Nowak<bnowak1@unca.edu>",
+  "readmeFIlename": "README.md",
   "license": "GPL 3.0",
   "bugs": {
     "url": "https://github.com/bnowak1unca/Rotten/issues"
