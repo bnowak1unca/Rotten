@@ -102,3 +102,4 @@ crashlytics-build.properties
 node_modules
 BAK_OLD
 package.json
+package.json.BAK
